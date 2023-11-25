@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpowend&show_icons=true&theme=cobalt)
+
+
 <!--
 **mpowend/mpowend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
